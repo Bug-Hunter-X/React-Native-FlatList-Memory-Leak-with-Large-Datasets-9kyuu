@@ -1,0 +1,1 @@
+This bug occurs when using the `FlatList` component in React Native with a large dataset.  The app becomes unresponsive and eventually crashes due to excessive memory consumption. The issue is exacerbated when complex components are rendered within each list item.
